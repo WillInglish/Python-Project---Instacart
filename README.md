@@ -1,7 +1,7 @@
 # Instacart Project
 
 ## Objective
-In this fictional project, Instacart is an online grocery store that operates through and app. They want me to look at insights about their sales patterns by performing an initial data analysis to suggest stategies for marketing.
+In this fictional project, Instacart is an online grocery store that operates through and app. They want me to look at insights about their sales patterns by performing an initial data analysis to suggest stategies for marketing. Look at the Project Brief for more details.
 
 ## Data
 This data was derived from open-source data sets from Instacart.
